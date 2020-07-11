@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-url: https://www.egony.io
+url: https://egony.github.io
 
 plugins:
   - jekyll-sitemap
