@@ -1,1 +1,8 @@
 theme: jekyll-theme-cayman
+url: https://www.egony.io
+
+plugins:
+  - jekyll-sitemap
+
+github:
+  repository_url: https://github.com/egony/MODKAM-STICK-V3
